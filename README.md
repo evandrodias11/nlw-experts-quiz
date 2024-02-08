@@ -29,6 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Quiz pra testar os seus conhecimentos e ter um retorno imediato sobre a quantidade de questões que você acertou.
+Disponível <a href='https://evandrodias11.github.io/nlw-experts-quiz/' target='_blank'>aqui</a>
 
 ## 📝 Licença
 
