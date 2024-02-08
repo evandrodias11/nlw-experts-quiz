@@ -1,8 +1,4 @@
 <p align="center">
-  <img alt="Logo NLW Expert - Rocketseat" src=".github/logo.png" width="200px" />
-</p>
-
-<p align="center">
 Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 </p>
 
@@ -13,7 +9,7 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://github.com/evandrodias11/nlw-experts-quiz/assets/65000871/70d852ad-47dd-424c-80ff-114b014b7155">
 </p>
 
 <br>
