@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse projeto você vai desenvolver um quiz pra testar os seus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
+Quiz pra testar os seus conhecimentos e ter um retorno imediato sobre a quantidade de questões que você acertou.
 
 ## 📝 Licença
 
